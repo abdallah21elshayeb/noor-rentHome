@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "home":"Home",
+    "landlords":"Landlords",
+    "tenants":"Tenants",
+    "about":"About Us",
+    "login":"Login"
+  },
+  "mainPage": {
+
+  }
+}
