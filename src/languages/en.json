@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Home",
+    "welcome": "Welcome",
+    "landlords": "Landlords",
+    "tenants": "Tenants",
+    "about": "About Us",
+    "profile":"Profile",
+    "requests":"Requests",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "footer": {
+    "company": "COMPANY",
+    "who": "Who We Are",
+    "why": "Why Noor",
+    "meet": "Meet The Team",
+    "help": "HELP LINKS",
+    "contact": "Contact Us",
+    "tenant": "Tenant FAQ'S",
+    "land": "Landlords FAQ'S"
+  },
+  "loginPage": {
+    "sign": "Sign In",
+    "email": "email",
+    "password": "password",
+    "log": "Login",
+    "forget": "Forget your password?",
+    "haveAccount": "You don't have an account?",
+    "signUp": "Please Sign Up from here",
+    "warning": "Please enter a valid email and password (must be at least 6 characters long).",
+    "loading":"Loading"
+  },
+  "signUpPage": {
+    "signUp": "Sign Up",
+    "name": "Full Name",
+    "address": "Address",
+    "haveAccount": "Already have an account?",
+    "login": "Login here"
+  },
+  "profilePage": {
+    "welcome": "Welcome",
+    "yourRequest": "Your Requests",
+    "requests": "Requests",
+    "status": "status",
+    "noRequest": "No Requests"
+  },
+  "aboutPage": {
+    "about":" Noor is an egyptian foundation Established in 2015 for various fields "
+  },
+  "mainPage": {
+    "intro": "Welcome to Your Perfect Space <br> Where Dreams of Home Come to Life",
+    "paragraph1title": "Increase Your Rental Income",
+    "paragraph1content": "Did you know that you can maximize your property rental with a few simple steps? We have just the expertise and knowledge to do this for you, and we’re sure you’ll love our approach.",
+    "paragraph2title": "Hassle-Free Property Management",
+    "paragraph2content": "Our seamless operations and PMS technology will ensure a fully transparent and total hassle free property management service."
+  },
+  "landlord": {
+    "paragraph1title": "You can maximize your property investment with a few simple steps?",
+    "paragraph1content": "Owning a residential property is one of the best financial assets you can have due to its ability to create a steady cash flow and help create new investments. With the world more connected than ever before, there has been an incredible increase in the demand for comfortable, affordable, and diverse properties. By moving from a long-term rental strategy to a short-term strategy, you are opening the doors to a world of new clients, and in turn, increasing your income capabilities. We have just the expertise and knowledge to do this for you, and we’re sure you’ll love our approach!",
+    "paragraph2title": "The Challenge",
+    "paragraph2content1": "Annual rental demand reduced",
+    "paragraph2content2": "Drop in annual rental prices",
+    "paragraph2content3": "Increase in leasing cycle gaps (3-6 months)",
+    "paragraph2content4": "Market over supply",
+    "paragraph2content5": "Low ROI"
+  },
+  "adminData": {
+    "#": "#",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "price": "Price",
+    "rental": "Rental Period",
+    "description": "Description",
+    "msg": "Message",
+    "status": "Status",
+    "image": "Images",
+    "dailyProfit": "Daily profit"
+  },
+  "tenantPage": {
+    "intro":"Home Rent Form",
+    "name":"Full Name",
+    "email":"Email Address",
+    "phone":"Phone Number",
+    "location":"Home Location",
+    "price":"Price",
+    "currency": "Currency",
+    "day": "Per Day",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+    "rental":"Rental Period",
+    "pUnit": "Period unit",
+    "image":"Upload Images",
+    "UploadedImages":"Uploaded Images",
+    "description":"Description of real estate",
+    "descriptionPlaceholder":"Write the home description here .....",
+    "msg":"Message",
+    "msgPlaceholder":"Write Your massage here .....",
+    "errorMsg": "Please! Fill all fields with red asterisk beside each label before submit",
+    "submit": "Submit"
+  }
+}
